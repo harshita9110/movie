@@ -4,7 +4,7 @@
   "description": "service cinnects to movie api database",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest movie.test.js"
   },
   "author": "Harshita Mehta",
   "license": "ISC",
