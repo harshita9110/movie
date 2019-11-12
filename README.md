@@ -1,5 +1,7 @@
 # movie
 
+This connects to Movie Database API.
+
 ## To run:
 
 In the project directory, run following commands:
